@@ -2,6 +2,8 @@
 
 You can use foodpusher gem to control push jobs for Chef Server inside ruby scripts and applications.
 
+![Alt text](logo/img.png)
+
 Liks to Chef docs:
 * [https://docs.chef.io/push_jobs.html]: Chef Push Jobs
 * [https://docs.chef.io/api_push_jobs.html]: Push Jobs API
